@@ -1,0 +1,3 @@
+Hey, I want a program that hooks into open webpages displaying twitch, reading it continuously and checking the results of every poll and storing it to a database. It should calculate the experimental odds of every really low odds win, medium odds win, and high odds win, and also mathematically decide which choice has the highest payout historically. Should display in a small window, minimalist with a dark grey background and purple and white color scheme similar to twitch darkmode. 
+
+Use Bayesian odds to figure out odds of consistant payout. Goal is to use this to design a simple payout strategy using this tool, but right now. I don't care how it's made, but I understand C# the best.
